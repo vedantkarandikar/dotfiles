@@ -1,0 +1,21 @@
+{
+  "suggest.noselect": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "go",
+    "java",
+    "python",
+    "javascriptreact",
+    "typescript.tsx",
+    "graphql"
+  ],
+  "python.linting.pylintArgs": [
+    "--extension-pkg-whitelist=cv2",
+    "--generate - members"
+  ],
+  "python.jediEnabled": false,
+  "clangd.path": "/home/competitive/.config/coc/extensions/coc-clangd-data/install/10.0.0/clangd_10.0.0/bin/clangd"
+}
